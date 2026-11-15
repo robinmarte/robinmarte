@@ -10,8 +10,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=robinmarte&show_icons=true&theme=tokyonight" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinmarte&layout=compact&theme=tokyonight" height="165" alt="Top languages">
 
 <br>
 
