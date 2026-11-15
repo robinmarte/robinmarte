@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <rect width="1200" height="280" rx="12" fill="#0a0a12"/>
+  <text x="613" y="148" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="88" letter-spacing="26" fill="#a8c8ec">ROBIN MARTE</text>
+  <rect x="360" y="192" width="480" height="2" fill="#c9a86a"/>
+  <rect x="594" y="186" width="12" height="12" transform="rotate(45 600 192)" fill="#8b7fd4"/>
+</svg>
